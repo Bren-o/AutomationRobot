@@ -1,0 +1,8 @@
+C:\Users\Breno Alves\Documents\SharpDevelop Projects\RoboTestesUnit\RoboTestesUnit\bin\Debug\RoboTestesUnit.exe.config
+C:\Users\Breno Alves\Documents\SharpDevelop Projects\RoboTestesUnit\RoboTestesUnit\bin\Debug\RoboTestesUnit.exe
+C:\Users\Breno Alves\Documents\SharpDevelop Projects\RoboTestesUnit\RoboTestesUnit\bin\Debug\RoboTestesUnit.pdb
+C:\Users\Breno Alves\Documents\SharpDevelop Projects\RoboTestesUnit\RoboTestesUnit\obj\Debug\RoboTestesUnit.csprojResolveAssemblyReference.cache
+C:\Users\Breno Alves\Documents\SharpDevelop Projects\RoboTestesUnit\RoboTestesUnit\obj\Debug\RoboTestesUnit.MainForm.resources
+C:\Users\Breno Alves\Documents\SharpDevelop Projects\RoboTestesUnit\RoboTestesUnit\obj\Debug\RoboTestesUnit.csproj.GenerateResource.Cache
+C:\Users\Breno Alves\Documents\SharpDevelop Projects\RoboTestesUnit\RoboTestesUnit\obj\Debug\RoboTestesUnit.exe
+C:\Users\Breno Alves\Documents\SharpDevelop Projects\RoboTestesUnit\RoboTestesUnit\obj\Debug\RoboTestesUnit.pdb
